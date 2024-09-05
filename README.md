@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/katiaMariano">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatiaMariano&theme=slateorange" />
+
   </a>
   
   </div>
@@ -23,8 +23,7 @@
   
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Katia Mariano&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Katia Mariano&theme=slateorange" />
+   ge" />
   </a>
 </div>
 
