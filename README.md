@@ -23,7 +23,7 @@
   
 <div align="center">
   <a href="https://github.com/dawidolko">
-   ge" />
+ 
   </a>
 </div>
 
